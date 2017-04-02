@@ -1,0 +1,2 @@
+# truststore
+Truststore for websphere 
